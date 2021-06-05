@@ -1,18 +1,14 @@
 # Инструкция по работе с GIT
 
-![](./assets/logo.png)
+![logo.png](./assets/logo.png)
 
-<div style="text-align: right">
-
-### `LISENSE`: [MIT](./lisense.md)
-
-</div>
+LISENSE:[MIT](./lisense.md)
 
 ___
 
 ## Содержание
 
-* [Что такое `GIT`](./info.md)
+* [Что такое GIT](./Info.md)
   * [История появления GIT](./history.md)
   * [Установка GIT](./install.md)
   * [Настройка GIT](./custom.md)
@@ -29,10 +25,5 @@ ___
 
 ___
 
-<div style="text-align: center">
-
 Git logo by Jason Long [Logo](http://git-scm.com/downloads/logos)
-
 license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-
-</div>
